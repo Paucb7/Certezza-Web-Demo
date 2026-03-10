@@ -71,7 +71,7 @@ Para ejecutar el proyecto localmente:
 
 Puedes ver el sitio web en funcionamiento aquí:
 
-[Agregar enlace si el sitio está publicado]
+[[Certezza DEMO]](https://paucb7.github.io/Certezza-Web-Demo/)
 
 ---
 
